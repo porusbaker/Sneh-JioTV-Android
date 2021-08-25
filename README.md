@@ -14,23 +14,7 @@
 - HQ Streaming Free of Cost <br>
 - Will Works In 250, 400, 600, 800 in this Gives Qualities
 - Web Play Supports
-- TiviMate or PC Users can Also Use This [PlayList.m3u](https://github.com/techiesneh/Sneh-JioTV-Android/blob/main/sneh-playlist.m3u)
-
-<h3>😛 Genrate ssoToken Here :</h3>
-
-- For This You Need JioID Number and Password
-```py
- https://jiologin.herokuapp.com/?user=NUMBER&pass=PASSWORD
-```
-- `user` = Username / Mobile No With `91`
-- `pass` = Password
-
-<br>
-
-- If You Don't Know JioID and Pass then Simply Open Following URL in Jio Network Connected Device
-```py
-https://jtok.herokuapp.com/j/
-```
+- TiviMate or PC Users can Also Use This [JIOTV PlayList.m3u](https://github.com/techiesneh/Sneh-JioTV-Android/blob/main/sneh-playlist.m3u)
 
 
 <br>
@@ -46,8 +30,9 @@ https://play.google.com/store/apps/details?id=ru.kslabs.ksweb
 
   ```
 • Locate all Files in LocalHost Root Folder <br>
-• Put Your ssoToken in Files then<br>
-• Open localhost You Will See all Channels List <br>
+• Put Your Mobile No. with +91 & Password in acc.php file <br>
+• Open KSWEB App & Start The Server <br>
+• Open [JIOTV PlayList.m3u](https://github.com/techiesneh/Sneh-JioTV-Android/blob/main/sneh-playlist.m3u) in any IPTV Player . You Will See all Channels List <br>
 • Click On Channel and Play <br>
 
 #### ♢ Method 2 :
