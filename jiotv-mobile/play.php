@@ -99,7 +99,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://telegra.ph/file/22da4d29204c748a526a4.png') no-repeat;
+        
         background-size: 35px auto, auto;
     }
 
