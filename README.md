@@ -51,8 +51,22 @@
   
   ```
   
-   ♢ <b>Depnding on Your Server Change Links<br>
-   ♢ This Script is free for USE and Modify</b><br><br>
+   • <b>Depnding on Your Server Change Links<br></b><br> 
+   
+
+#### ♢ Video Installations :
+
+• In Player Put Links Format Like Below
+
+  ```py
+  [+] - https://raw.githubusercontent.com/techiesneh/Sneh-JioTV-Android/main/jiotv-android.mp4
+  
+  ```
+  
+   • <b> Watch Installations Process . Then [Click Here](https://raw.githubusercontent.com/techiesneh/Sneh-JioTV-Android/main/jiotv-android.mp4) </b><br>
+   • This Script is free for USE and Modify</b><br> 
+ 
+
 
 <h2>🚸 Warnings :</h2>
 
