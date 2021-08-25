@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://i.ibb.co/hmZyP5j/JIO-LOGO-removebg-preview.png" width="180" height="100"></p>
+<p align="center"><img src="https://www.pngfind.com/pngs/m/211-2112783_reliance-jio-logo-hd-png-download.png" width="180" height="100"></p>
 
 <h1 align='center'>✯ JɪᴏTV Pʟᴀʏ Android ✯</h1>
 
