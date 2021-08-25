@@ -25,10 +25,14 @@
 • First Download This Application<br>
 • Name : KSWEB ( Php Web Server ) <br>
 
-```py
-https://play.google.com/store/apps/details?id=ru.kslabs.ksweb
+  ```py
+  [+] - https://play.google.com/store/apps/details?id=ru.kslabs.ksweb
+
+  [+] - https://apkdone.com/ksweb-server-php-mysql-apk/download
 
   ```
+  
+  
 • Locate all Files in LocalHost Root Folder <br>
 • Put Your Mobile No. with +91 & Password in acc.php file <br>
 • Open KSWEB App & Start The Server <br>
