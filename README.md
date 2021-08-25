@@ -40,9 +40,9 @@ https://play.google.com/store/apps/details?id=ru.kslabs.ksweb
 • In Player Put Links Format Like Below
 
   ```py
-  [+] - http://localhost/m3u8.php?c=Channel_Name&q=Quality&e=play.m3u8
+  [+] - http://localhost/jiotv-mobile/jioo.php?c=Channel_Name&q=Quality
   
-  [+] - http://localhost/m3u8.php?c=And_Pictures_HD&q=800&e=play.m3u8
+  [+] - http://localhost/jiotv-mobile/jioo.php?c=And_Pictures_HD&q=800
   
   ```
   
@@ -57,7 +57,7 @@ https://play.google.com/store/apps/details?id=ru.kslabs.ksweb
 <h3>🤗 Meet Me : </h3>
 
 
-• For any Support About Script contact [@TechieSneh]
+• For any Support About Script contact [@TechieSneh] <br>
 • Or Contact at [techiesneh@protonmail.com](mailto:techiesneh@protonmail.com)
 
 <br>
