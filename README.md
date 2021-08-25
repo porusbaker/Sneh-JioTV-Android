@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://www.pngfind.com/pngs/m/211-2112783_reliance-jio-logo-hd-png-download.png" width="180" height="100"></p>
+<p align="center"><img src="https://images.firstpost.com/wp-content/uploads/2020/07/jio-tvplus-1280.jpg" width="180" height="100"></p>
 
 <h1 align='center'>✯ JɪᴏTV Pʟᴀʏ Android ✯</h1>
 
