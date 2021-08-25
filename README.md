@@ -23,7 +23,7 @@
 #### ♢ Method 1 :
 
 • First Download This Application<br>
-• Name : KSWEB ( Php Web Server ) <br>
+ - Name : KSWEB ( Php Web Server ) <br>
 
   ```py
   [+] - https://play.google.com/store/apps/details?id=ru.kslabs.ksweb
@@ -36,6 +36,7 @@
 • Locate all Files in LocalHost Root Folder <br>
 • Put Your Mobile No. with +91 & Password in acc.php file <br>
 • Open KSWEB App & Start The Server <br>
+• Run acc.php file for a first time <br>
 • Open [JIOTV PlayList.m3u](https://github.com/techiesneh/Sneh-JioTV-Android/blob/main/sneh-playlist.m3u) in any IPTV Player . You Will See all Channels List <br>
 • Click On Channel and Play <br>
 
@@ -60,8 +61,7 @@
 
 <h3>🤗 Meet Me : </h3>
 
-
-• For any Support About Script contact [@TechieSneh] <br>
+• For any Support Join Our Group [Techie Sneh](https://t.me/techiesneh007)<br>
 • Or Contact at [techiesneh@protonmail.com](mailto:techiesneh@protonmail.com)
 
 <br>
