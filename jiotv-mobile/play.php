@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-<link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/tDy3byh/logo.webp">
 <script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script src="https://cdn.plyr.io/2.0.18/plyr.js"></script>
@@ -111,12 +111,12 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png') no-repeat;
+        background: url('https://i.ibb.co/tDy3byh/logo.webp') no-repeat;
         background-size: 35px auto, auto;
     }
 
 </style>
-
+  
 </head>
 <body>
   <div id="loading" class="loading">
