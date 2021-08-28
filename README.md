@@ -53,20 +53,28 @@
   
    • <b>Depnding on Your Server Change Links<br></b><br> 
    
+#### 😛 Genrate ssoToken Here :
+
+- For This You Need JioID Number and Password
+```py
+ http://jiologin.epizy.com/?user=NUMBER&pass=PASSWORD
+```
+- `user` = Username / Mobile No With `91`
+- `pass` = Password
+
+<br>
 
 #### ♢ Video Installations :
 
-• In Player Put Links Format Like Below
+• In Player Put Links Watch Installations Process Below
 
   ```py
   [+] - https://raw.githubusercontent.com/techiesneh/Sneh-JioTV-Android/main/jiotv-android.mp4
   
   ```
   
-   • <b> Watch Installations Process . Then [Click Here](https://raw.githubusercontent.com/techiesneh/Sneh-JioTV-Android/main/jiotv-android.mp4) </b><br>
    • This Script is free for USE and Modify</b><br> 
  
-
 
 <h2>🚸 Warnings :</h2>
 
