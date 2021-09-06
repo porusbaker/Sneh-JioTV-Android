@@ -57,10 +57,10 @@
 #### 😛 Genrate ssoToken Here :
 
 - For This You Need JioID Number and Password
-```py
- http://jiologin.epizy.com/?user=NUMBER&pass=PASSWORD
-```
-- `user` = Username / Mobile No With `91`
+
+[Jio Login Page] (http://jiologin.epizy.com)
+ 
+- `user` = Username / Mobile No.
 - `pass` = Password
 
 <br>
