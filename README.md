@@ -27,7 +27,7 @@
 
   ```py
 
- https://apkdone.com/ksweb-server-php-mysql-apk/download
+https://apkdone.com/ksweb-server-php-mysql-apk/download
 
   ```
 
@@ -35,7 +35,12 @@
  - JioTV Zip <br> ( https://github.com/techiesneh/Sneh-JioTV-Android/blob/main/jiotv-mobile.zip?raw=true ) <br>
 
 • Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
-• Put Your Mobile No. with +91 & Password in acc.php file <br>
+• Put Your Mobile Number with 91 & Password in Below Link <br>
+
+```py
+http://localhost:8080/jiotv-mobile/acc.php?user=NUMBER&pass=PASSWORD
+```
+
 • Open KSWEB App & Start The Server <br>
 • Run acc.php file for a first time <br>
 • Open [JIOTV PlayList.m3u](https://github.com/techiesneh/Sneh-JioTV-Android/blob/main/sneh-playlist.m3u) in any IPTV Player . You Will See all Channels List <br>
@@ -46,11 +51,11 @@
 • In Player Put Links Format Like Below
 
   ```py
- http://localhost/jiotv-mobile/jioo.php?c=Channel_Name&q=Quality
+http://localhost/jiotv-mobile/jioo.php?c=Channel_Name&q=Quality
   ```
 
 ```py
- http://localhost/jiotv-mobile/jioo.php?c=And_Pictures_HD&q=800
+http://localhost/jiotv-mobile/jioo.php?c=And_Pictures_HD&q=800
 ```
   
    • <b>Depnding on Your Server Change Links<br></b><br> 
