@@ -30,9 +30,11 @@
  https://apkdone.com/ksweb-server-php-mysql-apk/download
 
   ```
-  
-  
-• Locate all Files in LocalHost (Htdocs) Root Folder <br>
+
+• Then Download This Zip Files<br>
+ - JioTV Zip <br> ( https://github.com/techiesneh/Sneh-JioTV-Android/blob/main/jiotv-mobile.zip?raw=true ) <br>
+
+• Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
 • Put Your Mobile No. with +91 & Password in acc.php file <br>
 • Open KSWEB App & Start The Server <br>
 • Run acc.php file for a first time <br>
