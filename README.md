@@ -27,7 +27,7 @@
 
   ```py
 
-  [+] - https://apkdone.com/ksweb-server-php-mysql-apk/download
+ https://apkdone.com/ksweb-server-php-mysql-apk/download
 
   ```
   
@@ -44,11 +44,12 @@
 • In Player Put Links Format Like Below
 
   ```py
-  [+] - http://localhost/jiotv-mobile/jioo.php?c=Channel_Name&q=Quality
-  
-  [+] - http://localhost/jiotv-mobile/jioo.php?c=And_Pictures_HD&q=800
-  
+ http://localhost/jiotv-mobile/jioo.php?c=Channel_Name&q=Quality
   ```
+
+```py
+ http://localhost/jiotv-mobile/jioo.php?c=And_Pictures_HD&q=800
+```
   
    • <b>Depnding on Your Server Change Links<br></b><br> 
    • This Script is free for USE and Modify</b><br>
